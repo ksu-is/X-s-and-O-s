@@ -10,3 +10,6 @@ We stumbled upon plenty of ideas but the use of Tic Tac Toe really stuck to us. 
 See link: https://www.geeksforgeeks.org/python-implementation-automatic-tic-tac-toe-game-using-random-number/
 
 For the project it can be done solo but as we're gearing towards graduation majority of my classes are geared towards pushing people to work in pairs or with a group “to prepare you for the working world of depending on others” it really depends on the persons personality and how comfortable they’re. Some work better with others than by themselves and others work better in a group. We feel as if this should be a personal decision. Often times the idea of group work makes people nervous.
+
+
+Names?
